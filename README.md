@@ -18,16 +18,16 @@ Think of this as the architect's drawing, not the finished house.
 ## Screenshots
 
 ### Home (light mode)
-![Home, light mode](1-home-light.png)
+![Home, light mode](screenshots/1-home-light.png)
 
 ### Home (dark mode)
-![Home, dark mode](2-home-dark.png)
+![Home, dark mode](screenshots/2-home-dark.png)
 
 ### Zero to Hero course page
-![Zero to Hero course page](3-zero-to-hero.png)
+![Zero to Hero course page](screenshots/3-zero-to-hero.png)
 
 ### Talks page
-![Talks page](4-talks.png)
+![Talks page](screenshots/4-talks.png)
 
 ## How to view the design
 
