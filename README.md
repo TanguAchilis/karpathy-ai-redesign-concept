@@ -60,6 +60,6 @@ No installation, server or internet connection is needed (except for fonts and v
 ## Credits
 
 - All content, links and the portrait photo belong to Andrej Karpathy and are taken from [karpathy.ai](https://karpathy.ai).
-- Design concept by **Michel Ndjock**, a software engineer and tech mentor from Cameroon, currently learning through [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html).
+- Design concept by **Tangu Achilis**, a software engineer and tech mentor from Cameroon, currently learning through [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html).
 
 If Andrej would like any changes, or would prefer this repo to be taken down, I'll do it right away.
